@@ -1,0 +1,7 @@
+*{
+    background-color: aqua;
+}
+.header {
+    text-align: center;
+    display: inline-block;
+}
